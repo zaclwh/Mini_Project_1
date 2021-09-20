@@ -5,12 +5,19 @@
  
 Create a visualization dashboard to track important KPIs of the plant's operational process 
 1. Calculate the below listed KPIs(measures) using DAX 
+
 Machine Utilization - (ProductionFBE – Scrap FBE) / ProductionFBE Theoretical
+
 Right first time - (ProductionFBE – ScrapFBE – ReworkFBE) / ProductionFBE
+
 Scrap rate - Scrap rate_ScrapFBE / ProductionFBE 
+
 Rework rate - REwork rate_ReworkFBE / ProductionFBE 
+
 Downtime minutes Production pieces_(ProductionFBE – Scrap FBE) / ProductionFBE Theoretical
+
 Downtime minutes - Sum of downtime value (in secs)
+
 Production pieces - Count of total items produced
 
 2. Create charts to track the overall trend of the above calculated metrics over the given time period. Also, create a KPI card highlighting the overall values for each KPIs across the given time period in the data
