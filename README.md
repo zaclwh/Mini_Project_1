@@ -1,4 +1,4 @@
-# Mini_Project_1
+# PowerBI Visualization and Dashboard Mini_Project_1 
 
  Business Objective: Incorporate real time diagnostics of plant operational process to better manage available production lines and increase profit margin
  Analytics Objective: Build an analytics dashboard to track plant's operational process i.e., downtime minutes, total machine utilization time, etc.
